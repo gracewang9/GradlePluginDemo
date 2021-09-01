@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradlePluginDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/GradlePluginDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GradlePluginDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GradlePluginDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-plugin/GradlePluginDemo.lib-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-plugin/GradlePluginDemo.lib-plugin.iml" />
     </modules>
   </component>
 </project>
